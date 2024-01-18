@@ -1,0 +1,6 @@
+[ 2023-07-26 01:41:43,565] 159 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-07-26 01:41:45,649] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-26 01:41:45,654] 225 werkzeug - INFO -  * Debugger PIN: 397-026-117
+[ 2023-07-26 01:41:58,439] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-07-26 01:41:58,439] 225 werkzeug - INFO -  * Running on http://192.168.1.6:5000/ (Press CTRL+C to quit)
